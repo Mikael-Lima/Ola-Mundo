@@ -3,4 +3,4 @@
 
  Repositorio criado durante a aula de Git e GitHub do Curso em Video!!!!
 
- Alterando Remotamente o README!!
+ Alterando Remotamente o README pelo Site do GitHUb!!
